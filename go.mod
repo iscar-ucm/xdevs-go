@@ -1,4 +1,4 @@
-module github.com/iscar-ucm/xdevs-go
+module github.com/iscar-ucm/xdevs.go
 
 go 1.18
 

@@ -23,7 +23,7 @@
 package modeling
 
 import (
-	"github.com/iscar-ucm/xdevs-go/pkg/modeling"
+	"github.com/iscar-ucm/xdevs.go/pkg/modeling"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

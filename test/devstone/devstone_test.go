@@ -24,10 +24,10 @@ package devstone
 
 import (
 	"fmt"
-	"github.com/iscar-ucm/xdevs-go/examples/devstone"
-	"github.com/iscar-ucm/xdevs-go/pkg/modeling"
-	"github.com/iscar-ucm/xdevs-go/pkg/simulation"
-	"github.com/iscar-ucm/xdevs-go/pkg/util"
+	"github.com/iscar-ucm/xdevs.go/examples/devstone"
+	"github.com/iscar-ucm/xdevs.go/pkg/modeling"
+	"github.com/iscar-ucm/xdevs.go/pkg/simulation"
+	"github.com/iscar-ucm/xdevs.go/pkg/util"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

@@ -23,8 +23,8 @@
 package efp
 
 import (
-	"github.com/iscar-ucm/xdevs-go/pkg/modeling"
-	"github.com/iscar-ucm/xdevs-go/pkg/util"
+	"github.com/iscar-ucm/xdevs.go/pkg/modeling"
+	"github.com/iscar-ucm/xdevs.go/pkg/util"
 )
 
 type Processor struct {

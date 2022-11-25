@@ -22,7 +22,7 @@
 
 package efp
 
-import "github.com/iscar-ucm/xdevs-go/pkg/modeling"
+import "github.com/iscar-ucm/xdevs.go/pkg/modeling"
 
 type EF struct {
 	modeling.Coupled

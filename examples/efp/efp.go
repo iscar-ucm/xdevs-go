@@ -23,7 +23,7 @@
 package efp
 
 import (
-	"github.com/iscar-ucm/xdevs-go/pkg/modeling"
+	"github.com/iscar-ucm/xdevs.go/pkg/modeling"
 )
 
 type EFP struct {

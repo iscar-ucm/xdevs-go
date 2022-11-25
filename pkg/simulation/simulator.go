@@ -22,7 +22,7 @@
 
 package simulation
 
-import "github.com/iscar-ucm/xdevs-go/pkg/modeling"
+import "github.com/iscar-ucm/xdevs.go/pkg/modeling"
 
 type Simulator struct {
 	AbstractSimulator                 // It complies the AbstractSimulator interface.

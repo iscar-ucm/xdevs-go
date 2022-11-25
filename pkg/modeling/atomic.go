@@ -24,7 +24,7 @@ package modeling
 
 import (
 	"fmt"
-	"github.com/iscar-ucm/xdevs-go/pkg/util"
+	"github.com/iscar-ucm/xdevs.go/pkg/util"
 	"math"
 )
 

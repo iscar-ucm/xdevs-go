@@ -24,8 +24,8 @@ package efp
 
 import (
 	"fmt"
-	"github.com/iscar-ucm/xdevs-go/pkg/modeling"
-	"github.com/iscar-ucm/xdevs-go/pkg/util"
+	"github.com/iscar-ucm/xdevs.go/pkg/modeling"
+	"github.com/iscar-ucm/xdevs.go/pkg/util"
 )
 
 type Generator struct {

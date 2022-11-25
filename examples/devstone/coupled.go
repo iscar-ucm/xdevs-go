@@ -24,7 +24,7 @@ package devstone
 
 import (
 	"fmt"
-	"github.com/iscar-ucm/xdevs-go/pkg/modeling"
+	"github.com/iscar-ucm/xdevs.go/pkg/modeling"
 )
 
 type coupledDEVStone struct {

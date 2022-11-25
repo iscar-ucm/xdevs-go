@@ -22,7 +22,7 @@
 
 package simulation
 
-import "github.com/iscar-ucm/xdevs-go/pkg/modeling"
+import "github.com/iscar-ucm/xdevs.go/pkg/modeling"
 
 type AbstractSimulator interface {
 	Initialize()                  // performs all the required operations before starting a simulation.
